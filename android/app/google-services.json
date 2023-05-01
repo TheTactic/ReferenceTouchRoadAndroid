@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885450955286",
+    "project_id": "touchroad-72fc2",
+    "storage_bucket": "touchroad-72fc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885450955286:android:97c1cbab8625cf6d883337",
+        "android_client_info": {
+          "package_name": "com.simcoder.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885450955286-hdkt3leauh7s3i5h4qt49b3oc2i7mppr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHuwxmHm1d1FurbssumKhFwzgp42ZeVZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885450955286-hdkt3leauh7s3i5h4qt49b3oc2i7mppr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

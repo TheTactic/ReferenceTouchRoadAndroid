@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#696969</color>
+    <color name="colorPrimaryDark">#222A33</color>
+    <color name="colorAccent">#00BCD4</color>
+    <color name="colorAccentDark">#007285</color>
+    <color name="colorRed">#F44336</color>
+    <color name="black">#000000</color>
+    <color name="grey">#707070</color>
+    <color name="lightGrey">#C2C2C2</color>
+    <color name="lighterGrey">#ECECEC</color>
+    <color name="white">#FFFFFF</color>
+
+
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="transparent">#00ffffff</color>
+    <color name="white">#fff</color>
+    <color name="hint_disabled_dark">#43000000</color>
+
+    <!-- <color name="white">#fff</color>  -->
+    <color name="dribbble">#fff06292</color> <!-- pink 300 -->
+    <color name="dribbble_link_highlight">@color/text_secondary_light</color>
+    <color name="btn_link_highlight">#b387CEFA</color>
+
+    <!-- app palette -->
+    <!--<color name="primary">@color/dark_opaque_scrim</color>-->
+    <color name="accent">@color/primary_dark_secondary</color>
+
+    <!-- common colours -->
+
+    <color name="republican_red">#ef280e</color>
+    <color name="democrat_blue">#4169E1</color>
+    <color name="independent_grey">#7B7B7B</color>
+    <color name="constitutional_purple">#c013e7</color>
+    <color name="green_green">#00a755</color>
+    <color name="libertarian_gold">#ffd700</color>
+    <color name="total_orange">#ffa500</color>
+    <color name="other_violet">#EE82EE</color>
+    <color name="other_cyan">#0ED8D8</color>
+
+    <color name="republican_red_shadow">#26EF280E</color>
+    <color name="democrat_blue_shadow">#264169E1</color>
+    <color name="independent_grey_shadow">#267B7B7B</color>
+    <color name="constitutional_purple_shadow">#26C013E7</color>
+    <color name="green_green_shadow">#2600A755</color>
+    <color name="libertarian_gold_shadow">#26FFD700</color>
+    <color name="total_orange_shadow">#26FFA500</color>
+    <color name="other_violet_shadow">#26EE82EE</color>
+
+    <color name="republican_red_ring">#ef280e</color>
+    <color name="democrat_blue_ring">#4169E1</color>
+    <color name="independent_grey_ring">#8f8f8f</color>
+    <color name="constitutional_purple_ring">#c013e7</color>
+    <color name="green_green_ring">#00a755</color>
+    <color name="libertarian_gold_ring">#ffd700</color>
+
+    <color name="libertarian_light">#FFD86A</color>
+    <color name="libertarian_dark">#B48207</color>
+    <color name="republican_light">#CF5F4C</color>
+    <color name="republican_dark">#9E1704</color>
+    <color name="dem_light">#8FA3DF</color>
+    <color name="dem_dark">#0A2E99</color>
+    <color name="ind_light">#DAD8D8</color>
+    <color name="ind_dark">#3A3A3A</color>
+    <color name="const_light">#D88BE9</color>
+    <color name="const_dark">#67097C</color>
+    <color name="green_light">#A2FFA0</color>
+    <color name="green_dark">#00552B</color>
+
+    <color name="republican_red_down">#450c04</color>
+    <color name="democrat_blue_down">#1b2c5e</color>
+    <color name="independent_grey_down">#303030</color>
+    <color name="constitutional_purple_down">#420750</color>
+    <color name="green_green_down">#00562c</color>
+    <color name="libertarian_gold_down">#947d00</color>
+    <color name="total_orange_down">#A86D00</color>
+
+    <!-- common colours -->
+
+    <color name="primary">#616161</color>
+    <color name="primary_light">#8e8e8e</color>
+    <color name="primary_dark">#191919</color>
+    <color name="primary_dark_secondary">#464646</color>
+    <color name="secondary">#546e7a</color>
+    <color name="secondary_light">#819CA9</color>
+    <color name="secondary_dark">#29434e</color>
+    <!-- 30% -->
+
+    <color name="text_primary_dark">#DE323232</color> <!-- 87% -->
+    <color name="text_primary_custom_dark">#de212121</color> <!-- 87% -->
+    <color name="text_primary_light">#DEFFFFFF</color>
+    <color name="text_secondary_light">#DEFFFFFF</color> <!-- 70% -->
+    <color name="text_secondary_custom_light">#DECFD8DC</color> <!-- 70% -->
+    <color name="text_secondary_dark">#8a000000</color> <!-- 87 , 54% -->
+    <color name="text_secondary_custom_dark">#de212121</color> <!-- 87 , 54% -->
+    <!-- 38% -->
+    <!-- 30% -->
+    <color name="text_disabled_light">#4dffffff</color> <!-- 30% -->
+    <color name="text_email_or_website">#DE779AAA</color> <!-- 30% -->
+    <!-- 70% -->
+    <color name="text_white">#DEF8F8FF</color> <!-- 70% -->
+
+    <!--<color name="text_primary_dark">#de000000</color> -->
+    <!-- 87% -->
+    <!--<color name="text_secondary_dark">#8a000000</color> -->
+    <!-- 54% -->
+    <!--<color name="text_primary_light">#ffffffff</color>-->
+    <!--<color name="text_secondary_light">#b3ffffff</color>-->
+    <!--<color name="text_disabled_light">#4dffffff</color> -->
+    <!-- 30% -->
+
+    <color name="ripple_light">#99ffffff</color>
+    <color name="ripple_dark">@color/mid_grey</color>
+    <color name="background_light">#fafafa</color> <!-- grey 50 -->
+    <!-- grey 300 -->
+    <color name="background_card">#ffffff</color>
+    <color name="background_dark">#e0e0e0</color>
+    <color name="immersive_bars">#99000000</color>
+    <color name="background_super_dark">#ff292929</color>
+    <!--<color name="scrim">#99323232</color>-->
+    <color name="scrim">#CC323232</color>
+    <color name="white_scrim">#3bffffff</color>
+    <color name="dark_opaque_scrim">#323232</color>
+    <color name="dark_trans_scrim">#c8323232</color>
+    <color name="light_opaque_scrim">#8C8C8C</color>
+    <color name="error_scrim">#64bf0a0a</color>
+    <color name="scrim_trans">#1A323232</color>
+    <color name="scrim_trans1">#4D323232</color>
+    <color name="mid_grey">#40808080</color>
+    <color name="light_grey">#f5f5f5</color>
+    <color name="content_placeholder">#ffe0e0e0</color>
+    <color name="dark_icon">#99000000</color> <!-- 60% black-->
+    <!-- 30% black-->
+    <!-- 60% black on @color/primary -->
+    <!-- grey 600 -->
+    <color name="light_icon">#ffffffff</color>
+    <!-- 12% black -->
+    <color name="page_indicator_dark">@color/secondary</color>
+
+
+    <color name="Red">#FF0000</color>
+    <color name="WhiteSmoke">#F5F5F5</color>
+    <color name="PaleGreen">#98FB98</color>
+    <color name="CornflowerBlue">#6495ed</color>
+    <color name="DeepSkyBlue">#00BFFF</color>
+    <color name="DarkBlue">#00008B</color>
+    <color name="Black">#000000</color>
+
+    <color name="app_button_blue">@color/app_color_sky_blue</color>
+    <color name="light_grey_semi_transparent">#80313435</color>
+    <color name="app_color_sky_blue">#2395ED</color>
+</resources>

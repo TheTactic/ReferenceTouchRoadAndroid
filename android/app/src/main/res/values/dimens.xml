@@ -1,0 +1,314 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="default_icon_margin">5dp</dimen>
+
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <!-- Z-axis elevations -->
+    <dimen name="z_app_bar">4dp</dimen>
+    <dimen name="z_card">2dp</dimen>
+    <dimen name="z_fab">6dp</dimen>
+    <dimen name="touch_raise">6dp</dimen>
+    <dimen name="touched_app_bar">8dp</dimen>
+    <dimen name="z_drawer">16dp</dimen>
+
+    <!-- immutable metrics -->
+    <dimen name="zero_dimen">0dp</dimen>
+
+    <!-- standard metrics -->
+    <dimen name="spacing_normal_large">10dp</dimen>
+    <dimen name="spacing_normal_larger">12dp</dimen>
+    <dimen name="spacing_normal_largest">14dp</dimen>
+    <dimen name="spacing_husky">18dp</dimen>
+    <dimen name="spacing_husky_extra_tiny">20dp</dimen>
+    <dimen name="spacing_husky_tiny">22dp</dimen>
+    <dimen name="spacing_husky_medium">26dp</dimen>
+    <dimen name="spacing_husky_larger">30dp</dimen>
+    <dimen name="spacing_husky_largest">36dp</dimen>
+    <dimen name="spacing_med_normal_large">9dp</dimen>
+    <dimen name="spacing_normal">8dp</dimen>
+    <dimen name="spacing_micro">4dp</dimen>
+    <dimen name="spacing_small">5dp</dimen>
+    <dimen name="spacing_med">6dp</dimen>
+    <dimen name="spacing_med_normal">7dp</dimen>
+    <dimen name="spacing_tiny">3dp</dimen>
+    <dimen name="spacing_extra_small">2dp</dimen>
+    <dimen name="spacing_cards">1dp</dimen>
+    <dimen name="spacing_title_end">70dp</dimen>
+    <dimen name="neg_space_margin_extra_small">-1dp</dimen>
+    <dimen name="neg_space_margin_small">-2dp</dimen>
+    <dimen name="neg_space_margin_med_large">-6dp</dimen>
+    <dimen name="neg_space_margin_large">-8dp</dimen>
+    <dimen name="neg_space_margin_xlarge">-12dp</dimen>
+    <dimen name="neg_space_margin_huge">-16dp</dimen>
+    <dimen name="neg_padding_large">-24dp</dimen>
+    <dimen name="neg_spacing_pic1">-58dp</dimen>
+    <dimen name="neg_spacing_pic2">-56dp</dimen>
+    <dimen name="spacing_large">32dp</dimen>
+    <dimen name="spacing_xlarge_small">39dp</dimen>
+    <dimen name="spacing_xlarge_tiny">42dp</dimen>
+    <dimen name="spacing_xlarge">48dp</dimen>
+    <dimen name="spacing_xlarge_more">50dp</dimen>
+    <dimen name="spacing_xlarge_55">55dp</dimen>
+    <dimen name="spacing_xlarge_56">56dp</dimen>
+    <dimen name="spacing_xlarge_58">58dp</dimen>
+    <dimen name="spacing_xlarge_61">61dp</dimen>
+    <dimen name="spacing_xlarge_62">62dp</dimen>
+    <dimen name="spacing_xlarge_63">63dp</dimen>
+    <dimen name="spacing_huge">64dp</dimen>
+    <dimen name="spacing_huge_65">65dp</dimen>
+    <dimen name="spacing_huge_66">66dp</dimen>
+    <dimen name="spacing_huge_72">72dp</dimen>
+    <dimen name="spacing_huge_78">78dp</dimen>
+    <dimen name="spacing_huge_82">82dp</dimen>
+    <dimen name="spacing_huge_84">84dp</dimen>
+    <dimen name="spacing_huge_86">86dp</dimen>
+    <dimen name="spacing_huge_100">100dp</dimen>
+    <dimen name="spacing_huge_104">104dp</dimen>
+    <dimen name="spacing_huge_110">110dp</dimen>
+    <dimen name="spacing_huge_120">120dp</dimen>
+    <dimen name="spacing_huge_126">126dp</dimen>
+    <dimen name="spacing_huge_128">128dp</dimen>
+    <dimen name="spacing_huge_132">132dp</dimen>
+    <dimen name="spacing_huge_136">136dp</dimen>
+    <dimen name="spacing_huge_148">148dp</dimen>
+    <dimen name="spacing_huge_160">160dp</dimen>
+    <dimen name="spacing_huge_164">164dp</dimen>
+    <dimen name="spacing_huge_168">168dp</dimen>
+    <dimen name="spacing_huge_192">192dp</dimen>
+    <dimen name="spacing_huge_196">196dp</dimen>
+    <dimen name="spacing_huge_260">260dp</dimen>
+    <dimen name="spacing_huge_218">218dp</dimen>
+    <dimen name="spacing_huge_240">240dp</dimen>
+    <dimen name="spacing_huge_224">224dp</dimen>
+    <dimen name="padding_normal">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+    <dimen name="fab_size_large">60dp</dimen>
+    <dimen name="fab_radius">28dp</dimen>
+    <dimen name="dialog_corners">2dp</dimen>
+    <!-- padding_normal + fab_size + padding_normal -->
+    <!-- fab_size + padding_normal -->
+    <dimen name="half_fab_plus_single_padding">44dp</dimen> <!-- (fab_size / 2) + padding_normal -->
+    <dimen name="drag_dismiss_distance">112dp</dimen> <!-- 2 * ?android:actionBarSize -->
+    <!-- text input layout seems to add 4dp of extra padding. The following account for this -->
+    <dimen name="padding_normal_til">12dp</dimen>
+    <dimen name="til_margin_fix">-4dp</dimen>
+    <dimen name="nav_header_height">248dp</dimen>
+    <dimen name="image_size_normal">24dp</dimen>
+    <dimen name="image_size_small">18dp</dimen>
+    <dimen name="image_size_background">116dp</dimen>
+    <dimen name="image_size_foreground">96dp</dimen>
+    <dimen name="image_size_background_fill">108dp</dimen>
+    <dimen name="nav_header_sub_height">140dp</dimen>
+    <dimen name="nav_header_sub_logo_size">90dp</dimen>
+    <dimen name="custom_featured_recycler_container_min_h">80dp</dimen>
+    <dimen name="header_background_full_max_h">360dp</dimen>
+    <dimen name="home_anim_container_height">180dp</dimen>
+    <dimen name="home_sign_in_min_w">150dp</dimen>
+    <dimen name="issue_flare_w">45dp</dimen>
+    <dimen name="space_300">300dp</dimen>
+    <dimen name="space_280">280dp</dimen>
+    <dimen name="space_208">208dp</dimen>
+    <dimen name="space_380">380dp</dimen>
+    <dimen name="space_250">250dp</dimen>
+    <dimen name="space_200">200dp</dimen>
+    <dimen name="space_480">480dp</dimen>
+    <dimen name="space_256">256dp</dimen>
+    <dimen name="space_320">320dp</dimen>
+    <dimen name="space_450">450dp</dimen>
+    <dimen name="space_220">220dp</dimen>
+    <dimen name="pic_size1">40dp</dimen>
+    <dimen name="avatar_size">40dp</dimen>
+    <dimen name="avatar_bounds">48dp</dimen>
+    <dimen name="avatar_padding">4dp</dimen> <!-- (avatar_bounds - avatar_size) / 2 -->
+    <dimen name="avatar_margin">12dp</dimen> <!-- padding_normal - avatar_padding -->
+    <dimen name="avatar_ripple_radius">20dp</dimen> <!-- avatar_size / 2 -->
+    <dimen name="comment_actions_height">40dp</dimen>
+    <dimen name="comment_like_margin_adjustment">-8dp</dimen>
+    <dimen name="padding_side_title_text">5dp</dimen>
+    <dimen name="padding_preset_value">0.2dp</dimen>
+
+
+    <!-- tablet metrics -->
+    <dimen name="spacing_normal_large_tablet">17dp</dimen>
+    <dimen name="spacing_normal_larger_tablet">20.4dp</dimen>
+    <dimen name="spacing_normal_largest_tablet">23.8dp</dimen>
+    <dimen name="spacing_husky_tablet">30.6dp</dimen>
+    <dimen name="spacing_husky_extra_tiny_tablet">34dp</dimen>
+    <dimen name="spacing_husky_tiny_tablet">37.4dp</dimen>
+    <dimen name="spacing_husky_medium_tablet">44.2dp</dimen>
+    <dimen name="spacing_husky_larger_tablet">41dp</dimen>
+    <dimen name="spacing_husky_largest_tablet">61.2dp</dimen>
+    <dimen name="spacing_med_normal_large_tablet">15.3dp</dimen>
+    <dimen name="spacing_normal_tablet">13.6dp</dimen>
+    <dimen name="spacing_micro_tablet">6.8dp</dimen>
+    <dimen name="spacing_small_tablet">8.5dp</dimen>
+    <dimen name="spacing_med_tablet">10.2dp</dimen>
+    <dimen name="spacing_med_normal_tablet">11.9dp</dimen>
+    <dimen name="spacing_tiny_tablet">5.1dp</dimen>
+    <dimen name="spacing_extra_small_tablet">3.4dp</dimen>
+    <dimen name="spacing_cards_tablet">1.7dp</dimen>
+    <dimen name="spacing_title_end_tablet">119dp</dimen>
+    <dimen name="neg_space_margin_small_tablet">-3.4dp</dimen>
+    <dimen name="neg_space_margin_med_large_tablet">-10.2dp</dimen>
+    <dimen name="neg_space_margin_large_tablet">-13.6dp</dimen>
+    <dimen name="neg_space_margin_xlarge_tablet">-20.4dp</dimen>
+    <dimen name="neg_space_margin_huge_tablet">-27.2dp</dimen>
+    <dimen name="neg_padding_large_tablet">-40.8dp</dimen>
+    <dimen name="spacing_large_tablet">54.4dp</dimen>
+    <dimen name="spacing_xlarge_small_tablet">66.3dp</dimen>
+    <dimen name="spacing_xlarge_tiny_tablet">71.4dp</dimen>
+    <dimen name="spacing_xlarge_tablet">81.6dp</dimen>
+    <dimen name="spacing_xlarge_more_tablet">85dp</dimen>
+    <dimen name="spacing_xlarge_55_tablet">93.5dp</dimen>
+    <dimen name="spacing_xlarge_56_tablet">95.2dp</dimen>
+    <dimen name="spacing_xlarge_58_tablet">98.6dp</dimen>
+    <dimen name="spacing_xlarge_61_tablet">103.7dp</dimen>
+    <dimen name="spacing_xlarge_62_tablet">105.4dp</dimen>
+    <dimen name="spacing_xlarge_63_tablet">107.1dp</dimen>
+    <dimen name="spacing_huge_tablet">108.8dp</dimen>
+    <dimen name="spacing_huge_65_tablet">110.5dp</dimen>
+    <dimen name="spacing_huge_66_tablet">112.2dp</dimen>
+    <dimen name="spacing_huge_72_tablet">122.4dp</dimen>
+    <dimen name="spacing_huge_78_tablet">132.6dp</dimen>
+    <dimen name="spacing_huge_82_tablet">139.4dp</dimen>
+    <dimen name="spacing_huge_84_tablet">142.8dp</dimen>
+    <dimen name="spacing_huge_86_tablet">146.2dp</dimen>
+    <dimen name="spacing_huge_100_tablet">170dp</dimen>
+    <dimen name="spacing_huge_104_tablet">176.8dp</dimen>
+    <dimen name="spacing_huge_110_tablet">187dp</dimen>
+    <dimen name="spacing_huge_120_tablet">204dp</dimen>
+    <dimen name="spacing_huge_126_tablet">214.2dp</dimen>
+    <dimen name="spacing_huge_128_tablet">217.6dp</dimen>
+    <dimen name="spacing_huge_132_tablet">224.4dp</dimen>
+    <dimen name="spacing_huge_136_tablet">231.2dp</dimen>
+    <dimen name="spacing_huge_148_tablet">251.6dp</dimen>
+    <dimen name="spacing_huge_160_tablet">272dp</dimen>
+    <dimen name="spacing_huge_164_tablet">278.8dp</dimen>
+    <dimen name="spacing_huge_168_tablet">285.6dp</dimen>
+    <dimen name="spacing_huge_192_tablet">326.4dp</dimen>
+    <dimen name="spacing_huge_196_tablet">333.2dp</dimen>
+    <dimen name="spacing_huge_260_tablet">442dp</dimen>
+    <dimen name="spacing_huge_218_tablet">370.6dp</dimen>
+    <dimen name="spacing_huge_240_tablet">408dp</dimen>
+    <dimen name="spacing_huge_224_tablet">380.8dp</dimen>
+    <dimen name="padding_normal_tablet">27.2dp</dimen>
+    <dimen name="padding_large_tablet">40.8dp</dimen>
+    <dimen name="fab_size_large_tablet">102dp</dimen>
+    <dimen name="fab_radius_tablet">47.6dp</dimen>
+    <dimen name="dialog_corners_tablet">3.4dp</dimen>
+    <!-- padding_normal + fab_size + padding_normal -->
+    <!-- fab_size + padding_normal -->
+    <dimen name="half_fab_plus_single_padding_tablet">74.8dp
+    </dimen> <!-- (fab_size / 2) + padding_normal -->
+    <dimen name="drag_dismiss_distance_tablet">190.4dp</dimen> <!-- 2 * ?android:actionBarSize -->
+    <!-- text input layout seems to add 4dp of extra padding. The following account for this -->
+    <dimen name="padding_normal_til_tablet">20.4dp</dimen>
+    <dimen name="til_margin_fix_tablet">-6.8dp</dimen>
+    <dimen name="nav_header_height_tablet">421.6dp</dimen>
+    <dimen name="image_size_normal_tablet">40.8dp</dimen>
+    <dimen name="image_size_small_tablet">30.6dp</dimen>
+    <dimen name="image_size_background_tablet">197.2dp</dimen>
+    <dimen name="image_size_foreground_tablet">163.2dp</dimen>
+    <dimen name="image_size_background_fill_tablet">183.6dp</dimen>
+    <dimen name="nav_header_sub_height_tablet">238dp</dimen>
+    <dimen name="nav_header_sub_logo_size_tablet">153dp</dimen>
+    <dimen name="custom_featured_recycler_container_min_h_tablet">136dp</dimen>
+    <dimen name="header_background_full_max_h_tablet">612dp</dimen>
+    <dimen name="home_anim_container_height_tablet">306dp</dimen>
+    <dimen name="home_sign_in_min_w_tablet">255dp</dimen>
+    <dimen name="issue_flare_w_tablet">76.5dp</dimen>
+    <dimen name="space_300_tablet">510dp</dimen>
+    <dimen name="space_280_tablet">476dp</dimen>
+    <dimen name="space_208_tablet">353.6dp</dimen>
+    <dimen name="space_380_tablet">646dp</dimen>
+    <dimen name="space_250_tablet">425dp</dimen>
+    <dimen name="space_200_tablet">340dp</dimen>
+    <dimen name="space_480_tablet">816dp</dimen>
+    <dimen name="space_256_tablet">435.2dp</dimen>
+    <dimen name="space_320_tablet">544dp</dimen>
+    <dimen name="space_450_tablet">765dp</dimen>
+    <dimen name="space_220_tablet">374dp</dimen>
+    <dimen name="pic_size1_tablet">68dp</dimen>
+    <dimen name="avatar_size_tablet">68dp</dimen>
+    <dimen name="avatar_bounds_tablet">81.6dp</dimen>
+    <dimen name="avatar_padding_tablet">6.8dp</dimen> <!-- (avatar_bounds - avatar_size) / 2 -->
+    <dimen name="avatar_margin_tablet">20.4dp</dimen> <!-- padding_normal - avatar_padding -->
+    <dimen name="avatar_ripple_radius_tablet">30.4dp</dimen> <!-- avatar_size / 2 -->
+    <dimen name="comment_actions_height_tablet">68dp</dimen>
+    <dimen name="comment_like_margin_adjustment_tablet">-13.6dp</dimen>
+    <dimen name="padding_side_title_text_tablet">8.5dp</dimen>
+    <dimen name="padding_preset_value_tablet">0.34dp</dimen>
+    <dimen name="neg_spacing_pic1_tablet">-98.6dp</dimen>
+    <dimen name="neg_spacing_pic2_tablet">-95.2dp</dimen>
+    <dimen name="neg_space_margin_extra_small_tablet">-1.7dp</dimen>
+    <dimen name="action_bar_size_tablet">95.2dp</dimen>
+
+
+    <!-- drawer -->
+    <dimen name="drawer_width">@dimen/match_parent</dimen>
+
+    <item name="match_parent" format="integer" type="dimen">-1</item>
+
+
+    <!-- text sizes -->
+    <dimen name="text_size_time_preset_unit">14sp</dimen>
+    <dimen name="header7">22sp</dimen>
+    <dimen name="header6">20sp</dimen>
+    <dimen name="subtitle1">16sp</dimen>
+    <dimen name="subtitle2">14sp</dimen>
+    <dimen name="body1">16sp</dimen>
+    <dimen name="body2">14sp</dimen>
+    <dimen name="body3">18sp</dimen>
+    <dimen name="button">14sp</dimen>
+    <dimen name="caption">12sp</dimen>
+    <dimen name="overline">10sp</dimen>
+    <dimen name="text_size_xlarger">28sp</dimen>
+    <dimen name="text_size_xlarge">26sp</dimen>
+    <dimen name="text_size_larger">24sp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="text_size_med">16sp</dimen>
+    <dimen name="text_size_med_small">14sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_tiny">8sp</dimen>
+
+
+    <!-- text sizes tablet-->
+    <dimen name="text_size_time_preset_unit_tablet">24sp</dimen>
+    <dimen name="header7_tablet">38sp</dimen>
+    <dimen name="header6_tablet">34sp</dimen>
+    <dimen name="subtitle1_tablet">28sp</dimen>
+    <dimen name="subtitle2_tablet">24sp</dimen>
+    <dimen name="body1_tablet">28sp</dimen>
+    <dimen name="body2_tablet">24sp</dimen>
+    <dimen name="body3_tablet">31sp</dimen>
+    <dimen name="button_tablet">24sp</dimen>
+    <dimen name="caption_tablet">22sp</dimen>
+    <dimen name="overline_tablet">17sp</dimen>
+    <dimen name="text_size_larger_tablet">41sp</dimen>
+    <dimen name="text_size_xlarger_tablet">48sp</dimen>
+    <dimen name="text_size_xlarge_tablet">45sp</dimen>
+    <dimen name="text_size_large_tablet">34sp</dimen>
+    <dimen name="text_size_med_tablet">28sp</dimen>
+    <dimen name="text_size_med_small_tablet">24sp</dimen>
+    <dimen name="text_size_small_tablet">21sp</dimen>
+    <dimen name="text_size_tiny_tablet">14sp</dimen>
+
+
+    <!-- text spacing-->
+    <dimen name="line_spacing_extra_small">2sp</dimen>
+    <dimen name="line_spacing_extra">4sp</dimen>
+
+    <!-- text spacing tablet-->
+    <dimen name="line_spacing_extra_small_tablet">3.4sp</dimen>
+    <dimen name="line_spacing_extra_tablet">6.8sp</dimen>
+
+
+    <!-- Per the design guidelines, navigation drawers should be between 240dp and 320dp:
+         https://developer.android.com/design/patterns/navigation-drawer.html -->
+</resources>
